@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactdavid/static/css/main.082dee1f.css",
+    "main.js": "/reactdavid/static/js/main.c610e23b.js",
+    "static/js/787.c03efa35.chunk.js": "/reactdavid/static/js/787.c03efa35.chunk.js",
+    "index.html": "/reactdavid/index.html",
+    "main.082dee1f.css.map": "/reactdavid/static/css/main.082dee1f.css.map",
+    "main.c610e23b.js.map": "/reactdavid/static/js/main.c610e23b.js.map",
+    "787.c03efa35.chunk.js.map": "/reactdavid/static/js/787.c03efa35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082dee1f.css",
+    "static/js/main.c610e23b.js"
+  ]
+}
