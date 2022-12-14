@@ -62,7 +62,7 @@ function App(){
                       onClick={() => fnDelete(p.id)}>Borrar</i>
                       ///
                     <i className="material-icons text-warnig"
-                      onClick={() => setIdActual(p.id)}>Modificar</i>  
+                      onClick={() => setIdActual(p.id)}>Modifica</i>  
                   </div>
                 </div>
                 <div className="d-flex justify-content">
