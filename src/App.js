@@ -60,9 +60,9 @@ function App(){
                   <div>
                     <i className="material-icons text-danger"
                       onClick={() => fnDelete(p.id)}>Borrar</i>
-                      ....
+                      ///
                     <i className="material-icons text-warnig"
-                      onClick={() => setIdActual(p.id)}></i>  
+                      onClick={() => setIdActual(p.id)}>Modificar</i>  
                   </div>
                 </div>
                 <div className="d-flex justify-content">
